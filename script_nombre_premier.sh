@@ -1,7 +1,7 @@
 #!/bin/bash
 
 prime_1=0
-n=100000
+n=1000000
 echo "1"  
 echo "2"
 for((i=3;i<=n;))
